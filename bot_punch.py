@@ -3,7 +3,7 @@ import random
 import logging
 import json
 
-TOKEN = 'NTQzNjY2NzA0ODQ1MzczNDQw.XKNi2w.GVC_1eCeZX5HuPYKctVCWV61D9Y'
+TOKEN = 'Inscrit son token'
 
 client = discord.Client()
 
