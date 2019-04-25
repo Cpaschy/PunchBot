@@ -1,0 +1,720 @@
+[   
+    {
+        "album": "Professeur Punchline",
+        "description": "Seth Gueko > Professeur Punchline > Titi Parisien Remix (feat. Nekfeu & Oxmo Puccino)",
+        "artist": "Seth Gueko",
+        "vote": "+251",
+        "titre": "Titi Parisien Remix (feat. Nekfeu & Oxmo Puccino)",
+        "punchLine": "« Épousant l’art je me sens comme Renaud mentalité blouson noir. »"
+    },
+    {
+        "album": "Zéro",
+        "description": "Orelsan > Zéro > Saint-Valentin (feat. Gringe)",
+        "artist": "Orelsan",
+        "vote": "+376",
+        "titre": "Saint-Valentin (feat. Gringe)",
+        "punchLine": "« Suce ma bite pour la Saint-Valentin. »"
+    },
+    {
+        "album": "La force du nombre",
+        "description": "Fababy > La force du nombre > Maintenant",
+        "artist": "Fababy",
+        "vote": "+476",
+        "titre": "Maintenant",
+        "punchLine": "« Aucune rivière de larmes ne peut noyer un chagrin. »"
+    },
+    {
+        "album": "Cyborg",
+        "description": "Nekfeu > Cyborg > O.D",
+        "artist": "Nekfeu",
+        "vote": "+634",
+        "titre": "O.D",
+        "punchLine": "« Ton absence est la pire des présences. »"
+    },
+    {
+        "album": "Dans la légende",
+        "description": "PNL > Dans la légende > DA",
+        "artist": "PNL",
+        "vote": "+366",
+        "titre": "DA",
+        "punchLine": "« Avant j’étais moche dans la tess, aujourd’hui je plais à Eva Mendes. »"
+    },
+    {
+        "album": "Or Noir",
+        "description": "Kaaris > Or Noir > Tu me connais",
+        "artist": "Kaaris",
+        "vote": "+283",
+        "titre": "Tu me connais",
+        "punchLine": "« Elle a sa petite culotte qui fuit comme une piscine à débordement. »"
+    },
+    {
+        "album": "Feu",
+        "description": "Nekfeu > Feu > Nique les clones Part. II",
+        "artist": "Nekfeu",
+        "vote": "+142",
+        "titre": "Nique les clones Part. II",
+        "punchLine": "« Aymé ? C’est plus qu’un personnage de H. »"
+    },
+    {
+        "album": "Trône",
+        "description": "Booba > Trône > Magnifique",
+        "artist": "Booba",
+        "vote": "+661",
+        "titre": "Magnifique",
+        "punchLine": "« Tu ne peux que gagner quand t’as rien à perdre. »"
+    },
+    {
+        "album": "Ouest Side",
+        "description": "Booba > Ouest Side > Boulbi",
+        "artist": "Booba",
+        "vote": "+311",
+        "titre": "Boulbi",
+        "punchLine": "« Si je traîne en bas de chez toi, je fais chuter le prix de l’immobilier. »"
+    },
+    {
+        "album": "Je tourne en rond",
+        "description": "Jul > Je tourne en rond > Lady",
+        "artist": "Jul",
+        "vote": "+287",
+        "titre": "Lady",
+        "punchLine": "« Vas-y mets toi en valeur, mais n’oublie pas tes valeurs. »"
+    },
+    {
+        "album": "Saïtama",
+        "description": "Volts Face > Saïtama > Sale (feat. Hayce Lemsi)",
+        "artist": "Volts Face",
+        "vote": "+186",
+        "titre": "Sale (feat. Hayce Lemsi)",
+        "punchLine": "« En vrai t’es cheum, c’est les photos qui rendent bien. »"
+    },
+    {
+        "album": "La fête est finie",
+        "description": "Orelsan > La fête est finie > Basique",
+        "artist": "Orelsan",
+        "vote": "+317",
+        "titre": "Basique",
+        "punchLine": "« Si t’es souvent seul avec tes problèmes, c’est parce que, souvent, le problème, c’est toi. »"
+    },
+    {
+        "album": "XEU",
+        "description": "Vald > XEU > Primitif",
+        "artist": "Vald",
+        "vote": "+282",
+        "titre": "Primitif",
+        "punchLine": "« L’argent, ça démolit le cœur. Quand ça manque, ça démolit le cul. »"
+    },
+    {
+        "album": "Oyoki",
+        "description": "Kalash Criminel > Oyoki > T'es mort",
+        "artist": "Kalash Criminel",
+        "vote": "+375",
+        "titre": "T'es mort",
+        "punchLine": "« Ils veulent ta gloire et ton succès, mais pas de tes peines et tes souffrances. »"
+    },
+    {
+        "album": "Le Cactus de Sibérie",
+        "description": "Oxmo Puccino > Le Cactus de Sibérie > Nous aurions pu",
+        "artist": "Oxmo Puccino",
+        "vote": "+188",
+        "titre": "Nous aurions pu",
+        "punchLine": "« Éloigné de toi, bien sûr j’ai du chagrin. Ce témoignage : une poignée de sable dont j’ai pleuré chaque grain. »"
+    },
+    {
+        "album": "Feu",
+        "description": "Nekfeu > Feu > Reuf",
+        "artist": "Nekfeu",
+        "vote": "+161",
+        "titre": "Reuf",
+        "punchLine": "« Avant de sauter par la fenêtre, t’avais déjà le regard dans le vide. »"
+    },
+    {
+        "album": "La fête est finie",
+        "description": "Orelsan > La fête est finie > Notes pour trop tard (feat. Ibeyi)",
+        "artist": "Orelsan",
+        "vote": "+243",
+        "titre": "Notes pour trop tard (feat. Ibeyi)",
+        "punchLine": "« Pour être un fils de pute, pas besoin d’avoir une daronne sur un trottoir. »"
+    },
+    {
+        "album": "Singles et Freestyles",
+        "description": "Damso > Singles et Freestyles > Carte blanche (freestyle France Inter)",
+        "artist": "Damso",
+        "vote": "+358",
+        "titre": "Carte blanche (freestyle France Inter)",
+        "punchLine": "« On s’éloigne parce qu’on se dit je t’aime sans vraiment savoir ce que c’est. »"
+    },
+    {
+        "album": "Anarchie",
+        "description": "Sch > Anarchie > Himalaya",
+        "artist": "Sch",
+        "vote": "+199",
+        "titre": "Himalaya",
+        "punchLine": "« J’ai jamais cru en hier, laisse-moi croire en demain. »"
+    },
+    {
+        "album": "Singles et Freestyles",
+        "description": "Rémy > Singles et Freestyles > Réminem (freestyle Planète Rap)",
+        "artist": "Rémy",
+        "vote": "+139",
+        "titre": "Réminem (freestyle Planète Rap)",
+        "punchLine": "« Ma poésie vient d’en bas, elle me tirera peut-être vers le haut. »"
+    },
+    {
+        "album": "Enfants terribles",
+        "description": "Columbine > Enfants terribles > Temps électrique",
+        "artist": "Columbine",
+        "vote": "+225",
+        "titre": "Temps électrique",
+        "punchLine": "« Si t’es en or, pourquoi tu rouilles ? »"
+    },
+    {
+        "album": "Ipséité",
+        "description": "Damso > Ipséité > Γ. Mosaïque solitaire",
+        "artist": "Damso",
+        "vote": "+205",
+        "titre": "Γ. Mosaïque solitaire",
+        "punchLine": "« Vu du ciel, l’enfer est comme le paradis. »"
+    },
+    {
+        "album": "B.O. Tueurs",
+        "description": "Damso > B.O. Tueurs > Tueurs",
+        "artist": "Damso",
+        "vote": "+222",
+        "titre": "Tueurs",
+        "punchLine": "« La mort est ma raison de vivre. »"
+    },
+    {
+        "album": "Singles et Freestyles",
+        "description": "Bigflo & Oli > Singles et Freestyles > Entourage (remix) feat. Youssoupha",
+        "artist": "Bigflo & Oli",
+        "vote": "+276",
+        "titre": "Entourage (remix) feat. Youssoupha",
+        "punchLine": "« Triste de voir que la pizza arrive plus vite que l’ambulance. »"
+    },
+    {
+        "album": "La Cour des Grands",
+        "description": "Bigflo & Oli > La Cour des Grands > Ça coûte rien",
+        "artist": "Bigflo & Oli",
+        "vote": "+177",
+        "titre": "Ça coûte rien",
+        "punchLine": "« Pas de fric pour bouffer, mais t’en as pour tes clopes. »"
+    },
+    {
+        "album": "Cyborg",
+        "description": "Nekfeu > Cyborg > O.D",
+        "artist": "Nekfeu",
+        "vote": "+234",
+        "titre": "O.D",
+        "punchLine": "« Tu m’aimes et tu me fais plus de mal que mon ennemi. »"
+    },
+    {
+        "album": "Singles et Freestyles",
+        "description": "Moha La Squale > Singles et Freestyles > Thug Life",
+        "artist": "Moha La Squale",
+        "vote": "+320",
+        "titre": "Thug Life",
+        "punchLine": "« Le passé s’est mal passé, mais le passé, c’est le passé. »"
+    },
+    {
+        "album": "B.O. Tueurs",
+        "description": "Damso > B.O. Tueurs > Tueurs",
+        "artist": "Damso",
+        "vote": "+355",
+        "titre": "Tueurs",
+        "punchLine": "« Quand la vie te baise, y’a pas de pilule. »"
+    },
+    {
+        "album": "Nous-mêmes",
+        "description": "Hornet La Frappe > Nous-mêmes > Je pense à toi",
+        "artist": "Hornet La Frappe",
+        "vote": "+312",
+        "titre": "Je pense à toi",
+        "punchLine": "« On vise les jambes, on te laisse viser la lune. »"
+    },
+    {
+        "album": "Flip",
+        "description": "Lomepal > Flip > Yeux disent",
+        "artist": "Lomepal",
+        "vote": "+160",
+        "titre": "Yeux disent",
+        "punchLine": "« Je voulais plus d’air, plus de distance, j’en ai juste un peu trop mis. »"
+    },
+    {
+        "album": "Ipséité",
+        "description": "Damso > Ipséité > Α. Nwaar Is The New Black",
+        "artist": "Damso",
+        "vote": "+302",
+        "titre": "Α. Nwaar Is The New Black",
+        "punchLine": "« Elle voulait la rose mais sans les épines. J’ai perdu du terrain comme en Palestine. »"
+    },
+    {
+        "album": "Comme prévu",
+        "description": "Ninho > Comme prévu > Comme prévu",
+        "artist": "Ninho",
+        "vote": "+383",
+        "titre": "Comme prévu",
+        "punchLine": "« Et si tout le pays est anorexique, c’est que le président a double menton. »"
+    },
+    {
+        "album": "Batterie faible",
+        "description": "Damso > Batterie faible > Débrouillard",
+        "artist": "Damso",
+        "vote": "+181",
+        "titre": "Débrouillard",
+        "punchLine": "« La vie ne fait aucun cadeau, le Père Noël n’existe pas dans la rue. »"
+    },
+    {
+        "album": "Singles et Freestyles",
+        "description": "Moha La Squale > Singles et Freestyles > Papa Noël",
+        "artist": "Moha La Squale",
+        "vote": "+134",
+        "titre": "Papa Noël",
+        "punchLine": "« Oublie pas la chance que tu as de pouvoir manger à table et d’avoir un sapin. »"
+    },
+    {
+        "album": "La fête est finie",
+        "description": "Orelsan > La fête est finie > Christophe (feat. Maître Gims)",
+        "artist": "Orelsan",
+        "vote": "+341",
+        "titre": "Christophe (feat. Maître Gims)",
+        "punchLine": "« Marion Maréchal me suit sur Twitter. J’aimerais la baiser, briser son p’tit cœur. J’ai envoyé ma bite et un emoji fleur. Bonjour au papy, j’suis pressé qu’il meure. »"
+    },
+    {
+        "album": "Ipséité",
+        "description": "Damso > Ipséité > Ζ. Kietu",
+        "artist": "Damso",
+        "vote": "+432",
+        "titre": "Ζ. Kietu",
+        "punchLine": "« Ça commence par du Roméo et Juliette. Ça finit par du Jacquie et Michel. »"
+    },
+    {
+        "album": "Singles et Freestyles",
+        "description": "Vald > Singles et Freestyles > Gizeh",
+        "artist": "Vald",
+        "vote": "+137",
+        "titre": "Gizeh",
+        "punchLine": "« Des grands pilons aèrent le champ de mon viseur. Ton embryon de carrière dans mon freezer, snitch. »"
+    },
+    {
+        "album": "Professeur Punchline",
+        "description": "Seth Gueko > Professeur Punchline > Delicatessen",
+        "artist": "Seth Gueko",
+        "vote": "+1615",
+        "titre": "Delicatessen",
+        "punchLine": "« Suis-je métrosexuel si j’encule un contrôleur ? »"
+    },
+    {
+        "album": "La cuenta",
+        "description": "Rohff > La cuenta > Les choses simples",
+        "artist": "Rohff",
+        "vote": "+1512",
+        "titre": "Les choses simples",
+        "punchLine": "« J’ai assez de vices pour faire du bricolage. »"
+    },
+    {
+        "album": "Platinum",
+        "description": "IAM > Platinum > Un jour comme un lion",
+        "artist": "IAM",
+        "vote": "+271",
+        "titre": "Un jour comme un lion",
+        "punchLine": "« Vaut mieux vivre un jour comme un lion que cent comme un chien. »"
+    },
+    {
+        "album": "La main sur le coeur",
+        "description": "Sinik > La main sur le coeur > L'assassin",
+        "artist": "Sinik",
+        "vote": "+336",
+        "titre": "L'assassin",
+        "punchLine": "« Tu fais pas le poids petit boxeur catégorie chiffe molle. Tu t’es trop fait taper, dans mon quartier on t’appelle punching-ball. »"
+    },
+    {
+        "album": "Perdu d'avance",
+        "description": "Orelsan > Perdu d'avance > Différent",
+        "artist": "Orelsan",
+        "vote": "+732",
+        "titre": "Différent",
+        "punchLine": "« Avant j’voulais construire ma vie avec mes beaux diplômes. Depuis j’ai vue 8mile et j’rêve d’habiter dans un mobile-home. »"
+    },
+    {
+        "album": "Les fils de Jack Mess",
+        "description": "Seth Gueko > Les fils de Jack Mess > Fils de Jack Mess",
+        "artist": "Seth Gueko",
+        "vote": "+165",
+        "titre": "Fils de Jack Mess",
+        "punchLine": "« On a l’ADN de Ben Laden, mais on veut la BM à Ben Affleck. »"
+    },
+    {
+        "album": "Machine à écrire",
+        "description": "LaCraps > Machine à écrire > Souffrir en silence",
+        "artist": "LaCraps",
+        "vote": "+151",
+        "titre": "Souffrir en silence",
+        "punchLine": "« Sois conscient que la seule façon d’être heureux, c’est d’aimer souffrir. »"
+    },
+    {
+        "album": "Sur les chemins du retour",
+        "description": "Youssoupha > Sur les chemins du retour > A force de dire",
+        "artist": "Youssoupha",
+        "vote": "+427",
+        "titre": "A force de dire",
+        "punchLine": "« Suce la tendance jusqu’à la mort, t’es dans de beaux draps. Moi j’m’en fous de la mode, par définition elle se démodera. »"
+    },
+    {
+        "album": "La salle d’attente",
+        "description": "Hugo TSR > La salle d’attente > L'habitude de la biture",
+        "artist": "Hugo TSR",
+        "vote": "+172",
+        "titre": "L'habitude de la biture",
+        "punchLine": "« Mon clan à moi, il s’appelle Campbell. »"
+    },
+    {
+        "album": "Le chant des sirènes",
+        "description": "Orelsan > Le chant des sirènes > Des trous dans la tête",
+        "artist": "Orelsan",
+        "vote": "+1215",
+        "titre": "Des trous dans la tête",
+        "punchLine": "« Je suis parti frais comme un gardon. Je suis rentré fumé comme un saumon. »"
+    },
+    {
+        "album": "Dans la légende",
+        "description": "PNL > Dans la légende > DA",
+        "artist": "PNL",
+        "vote": "+1596",
+        "titre": "DA",
+        "punchLine": "« Vrr vrr ratatata. »"
+    },
+    {
+        "album": "Le Code De L'horreur",
+        "description": "Rohff > Le Code De L'horreur > Rien De Spécial",
+        "artist": "Rohff",
+        "vote": "+176",
+        "titre": "Rien De Spécial",
+        "punchLine": "« Si t’as le regard infrarouge, tu peux voir passer l’3ain. T’as l’oreille de Steve Austin, t’entends la haine qui rumine. »"
+    },
+    {
+        "album": "Opéra Puccino",
+        "description": "Oxmo Puccino > Opéra Puccino > La loi du point final (feat. Lino)",
+        "artist": "Oxmo Puccino",
+        "vote": "+120",
+        "titre": "La loi du point final (feat. Lino)",
+        "punchLine": "« J’suis vulgaire comme les ruelles sont cruelles. Et c’est cette putain d’époque qui change les Marc Dutroux en Père Noël. »"
+    },
+    {
+        "album": "L'École du micro d'argent",
+        "description": "IAM > L'École du micro d'argent > Petit Frère",
+        "artist": "IAM",
+        "vote": "+224",
+        "titre": "Petit Frère",
+        "punchLine": "« On sait ce que tu es quand on voit ce que tu possèdes. Petit frère le sait et garde ce fait en tête. »"
+    },
+    {
+        "vote": "+2739",
+        "artist": "Zlatan Ibrahimović",
+        "description": "Zlatan Ibrahimović",
+        "punchLine": "« Je suis venu comme un roi, je pars comme une légende. »"
+    },
+    {
+        "album": "Les Chroniques du 75 Vol.2",
+        "description": "Sexion d'Assaut > Les Chroniques du 75 Vol.2 > Paris va bien",
+        "artist": "Sexion d'Assaut",
+        "vote": "+284",
+        "titre": "Paris va bien",
+        "punchLine": "« Laisse les avec leur Rap Game, les jeux c’est pour les mômes. »"
+    },
+    {
+        "album": "La Fouine vs. Laouni",
+        "description": "La Fouine > La Fouine vs. Laouni > Elle Venait Du Ciel (feat Zaho)",
+        "artist": "La Fouine",
+        "vote": "+373",
+        "titre": "Elle Venait Du Ciel (feat Zaho)",
+        "punchLine": "« Quand t’as pas connu le vinaigre comment apprécier le miel ? »"
+    },
+    {
+        "album": "Punch Line Street Beat Show",
+        "description": "Mister You > Punch Line Street Beat Show > Itinéraire d'une kaille",
+        "artist": "Mister You",
+        "vote": "+356",
+        "titre": "Itinéraire d'une kaille",
+        "punchLine": "« J’te laisse passer, j’regarde ton uc Lady : c’est la galanterie. »"
+    },
+    {
+        "album": "Si si la famille",
+        "description": "Nysay > Si si la famille > Je t'aime moi non plus",
+        "artist": "Nysay",
+        "vote": "+39",
+        "titre": "Je t'aime moi non plus",
+        "punchLine": "« C’est plutôt grotesque tu sais, j’aime pas les femmes faciles. »"
+    },
+    {
+        "album": "Marginale Musique",
+        "description": "Fonky Family > Marginale Musique > Ça ou rien",
+        "artist": "Fonky Family",
+        "vote": "+2208",
+        "titre": "Ça ou rien",
+        "punchLine": "« Le plus dur n’est pas de trouver le droit chemin, c’est d’y rester »"
+    },
+    {
+        "album": "Feinte de frappe",
+        "description": "Jarod > Feinte de frappe > Rire ou pleurer",
+        "artist": "Jarod",
+        "vote": "+2529",
+        "titre": "Rire ou pleurer",
+        "punchLine": "« J’ai connu des trucs qu’une gomme ne pourrait pas effacer. »"
+    },
+    {
+        "album": "Le côté malsain",
+        "description": "Sinik > Le côté malsain > La loi du plus fort",
+        "artist": "Sinik",
+        "vote": "+1873",
+        "titre": "La loi du plus fort",
+        "punchLine": "« La violence n’est que la force des faibles. »"
+    },
+    {
+        "album": "Darksun",
+        "description": "Nakk Mendosa > Darksun > Coincé dans ce Monde (feat. Despo Rutti)",
+        "artist": "Nakk Mendosa",
+        "vote": "+1246",
+        "titre": "Coincé dans ce Monde (feat. Despo Rutti)",
+        "punchLine": "« Fiers, on s’excuse avec des actes, pas avec des mots. »"
+    },
+    {
+        "album": "Le 75 en Lui-Même",
+        "description": "Volts Face > Le 75 en Lui-Même > Peur De Personne",
+        "artist": "Volts Face",
+        "vote": "+1441",
+        "titre": "Peur De Personne",
+        "punchLine": "« Dites au marchand de sable d’aller chercher du taf à la plage. »"
+    },
+    {
+        "album": "Divers",
+        "description": "Rasko > Divers > L'amour N'existe Plus",
+        "artist": "Rasko",
+        "vote": "+883",
+        "titre": "L'amour N'existe Plus",
+        "punchLine": "« L’amour une sale expérience que tu sois un mec ou meuf, un jour tu tombes dans ce piège immense. »"
+    },
+    {
+        "album": "D.U.C.",
+        "description": "Booba > D.U.C. > Les meilleurs (feat. 40000 Gang)",
+        "artist": "Booba",
+        "vote": "+2861",
+        "titre": "Les meilleurs (feat. 40000 Gang)",
+        "punchLine": "« Si les meilleurs partent en premier, pourquoi suis-je toujours en vie ? »"
+    },
+    {
+        "album": "Gravé dans la roche",
+        "description": "Sniper > Gravé dans la roche > Sans (re)Pères",
+        "artist": "Sniper",
+        "vote": "+1185",
+        "titre": "Sans (re)Pères",
+        "punchLine": "« Combien de fois tu l’as vexé ? Combien de fois t’étais pas là ? Combien de bleus sur ses bras ? Car quand on aime on ne compte pas. »"
+    },
+    {
+        "album": "La Plume Et Le Poignard",
+        "description": "Sinik > La Plume Et Le Poignard > Mr Punchline (Remix)",
+        "artist": "Sinik",
+        "vote": "+428",
+        "titre": "Mr Punchline (Remix)",
+        "punchLine": "« De toute façon y’a plus de modèle, ils ont retrouvé de l’ADN présidentiel au fond du cul de Faudel. »"
+    },
+    {
+        "album": "Poussière d'étoile",
+        "description": "El Matador > Poussière d'étoile > Miroslav Punchlinikov",
+        "artist": "El Matador",
+        "vote": "+710",
+        "titre": "Miroslav Punchlinikov",
+        "punchLine": "« T’es belle de loin, loin d’être belle, même de près. »"
+    },
+    {
+        "album": "Bad CowBoy",
+        "description": "Seth Gueko > Bad CowBoy > Dodo La Saumure",
+        "artist": "Seth Gueko",
+        "vote": "+410",
+        "titre": "Dodo La Saumure",
+        "punchLine": "« Nique ta sœur comme un Lannister, Allah yster. »"
+    },
+    {
+        "album": "Flaque de samples",
+        "description": "Hugo TSR > Flaque de samples > Génération Shit Et Grec Frite",
+        "artist": "Hugo TSR",
+        "vote": "+574",
+        "titre": "Génération Shit Et Grec Frite",
+        "punchLine": "« Je reste un gosse à part que la tise a remplacé les friandises. »"
+    },
+    {
+        "album": "Détournement de son",
+        "description": "Fabe > Détournement de son > Comme Un Rat Dans L'coin",
+        "artist": "Fabe",
+        "vote": "+438",
+        "titre": "Comme Un Rat Dans L'coin",
+        "punchLine": "« La rue c’est comme une maladie, le seul problème c’est qu’il n’y a que là qu’on trouve des pharmacies. »"
+    },
+    {
+        "album": "La Classe De Musique",
+        "description": "Le Klub des 7 > La Classe De Musique > Le conseil de discipline",
+        "artist": "Le Klub des 7",
+        "vote": "+542",
+        "titre": "Le conseil de discipline",
+        "punchLine": "« Elle n’est pas belle pour un sou, et encore moins pour un sobre. »"
+    },
+    {
+        "album": "Perdu d'avance",
+        "description": "Orelsan > Perdu d'avance > Pour Le Pire",
+        "artist": "Orelsan",
+        "vote": "+782",
+        "titre": "Pour Le Pire",
+        "punchLine": "« Je te quitterai dès que je trouve une chienne avec un meilleur pedigree. »"
+    },
+    {
+        "album": "La Fouine vs. Laouni",
+        "description": "La Fouine > La Fouine vs. Laouni > Stan Smith",
+        "artist": "La Fouine",
+        "vote": "+1745",
+        "titre": "Stan Smith",
+        "punchLine": "« L’argent ne fait pas le bonheur, la misère non plus. »"
+    },
+    {
+        "album": "Toujours Le Même",
+        "description": "Lacrim > Toujours Le Même > Un arabe à Miami",
+        "artist": "Lacrim",
+        "vote": "+1395",
+        "titre": "Un arabe à Miami",
+        "punchLine": "« Ici c’est la folie, je suis bien loin de la tour Eiffel. Tu vis le rêve américain sauf qu’à la fin tu te réveilles. »"
+    },
+    {
+        "album": "Le 75 en Lui-Même",
+        "description": "Volts Face > Le 75 en Lui-Même > Une balle dans la tête",
+        "artist": "Volts Face",
+        "vote": "+1071",
+        "titre": "Une balle dans la tête",
+        "punchLine": "« La confiance est une femme, la trahison une fille facile. »"
+    },
+    {
+        "album": "Marqué à vie",
+        "description": "Tunisiano > Marqué à vie > Carré (feat. Sofiane, Ol Kainry, Vald)",
+        "artist": "Tunisiano",
+        "vote": "+2309",
+        "titre": "Carré (feat. Sofiane, Ol Kainry, Vald)",
+        "punchLine": "« Elles ont peur de l’orage, mais rêvent toutes d’un coup de foudre. »"
+    },
+    {
+        "album": "Lunatic",
+        "description": "Booba > Lunatic > Caesar Palace (feat. P. Diddy)",
+        "artist": "Booba",
+        "vote": "+1090",
+        "titre": "Caesar Palace (feat. P. Diddy)",
+        "punchLine": "« Vis la nuit, car elle porte conseil. »"
+    },
+    {
+        "album": "Vive La Vie",
+        "description": "Klub des Loosers > Vive La Vie > De l'amour à la haine",
+        "artist": "Klub des Loosers",
+        "vote": "+1432",
+        "titre": "De l'amour à la haine",
+        "punchLine": "« Je t’ai tout donné, apparemment même l’envie de me quitter. »"
+    },
+    {
+        "album": "Subliminal La Face Cachée",
+        "description": "Maître Gims > Subliminal La Face Cachée > VQ2PQ",
+        "artist": "Maître Gims",
+        "vote": "+1503",
+        "titre": "VQ2PQ",
+        "punchLine": "« J’ai deux tours d’avance, comme Mister Ben Laden. »"
+    },
+    {
+        "album": "Tout dans la tête",
+        "description": "Zoxea > Tout dans la tête > C'est Nous les Reustas",
+        "artist": "Zoxea",
+        "vote": "+1196",
+        "titre": "C'est Nous les Reustas",
+        "punchLine": "« Mes potos sont chrétiens, musulmans ou portent la kippa. Chez nous y’a pas de racistes, fils de chien avec ça on ne rit pas. »"
+    },
+    {
+        "album": "Face à Volts",
+        "description": "Volts Face > Face à Volts > Solo",
+        "artist": "Volts Face",
+        "vote": "+1289",
+        "titre": "Solo",
+        "punchLine": "« Je suis discret dans les affaires, y’a seulement Dieu et le soleil qui me crame. »"
+    },
+    {
+        "album": "Street Minimum",
+        "description": "Nakk Mendosa > Street Minimum > Negative Attitude",
+        "artist": "Nakk Mendosa",
+        "vote": "+988",
+        "titre": "Negative Attitude",
+        "punchLine": "« Si tu pars en couille, suis-moi c’est sur mon chemin. »"
+    },
+    {
+        "album": "La Fierté Des Nôtres",
+        "description": "Rohff > La Fierté Des Nôtres > Souvenirs",
+        "artist": "Rohff",
+        "vote": "+1109",
+        "titre": "Souvenirs",
+        "punchLine": "« La vie est moche mais les souvenirs lui donnent du charme. »"
+    },
+    {
+        "album": "Soprano",
+        "description": "R.E.D.K. > Soprano > E=2MC's > Simple Constat 5",
+        "artist": "R.E.D.K.",
+        "vote": "+1177",
+        "titre": "E=2MC's",
+        "punchLine": "« Suffit d’une Panenka pour transformer le meilleur gardien du monde en bouffone. »"
+    },
+    {
+        "album": "Le 75 en Lui-Même",
+        "description": "Volts Face > Le 75 en Lui-Même > 75 en lui-même",
+        "artist": "Volts Face",
+        "vote": "+1598",
+        "titre": "75 en lui-même",
+        "punchLine": "« On pourrait tuer pour nos mères, y’a que l’océan qu’est pacifique. »"
+    },
+    {
+        "album": "Entre Ciment Et Belle Étoile",
+        "description": "Keny Arkana > Entre Ciment Et Belle Étoile > Victoria",
+        "artist": "Keny Arkana",
+        "vote": "+689",
+        "titre": "Victoria",
+        "punchLine": "« Les politiques sont des prédateurs qui sèment la peur, et qui ont un estomac à la place du cœur. »"
+    },
+    {
+        "album": "Le monde est mon pays",
+        "description": "Nakk Mendosa > Le monde est mon pays > Je ne cicatrise pas",
+        "artist": "Nakk Mendosa",
+        "vote": "+1474",
+        "titre": "Je ne cicatrise pas",
+        "punchLine": "« Tu m’as appris que la vie c’est pas la mort, mais toi t’es mort et c’est à vie. »"
+    },
+    {
+        "album": "Michto",
+        "description": "Seth Gueko > Michto > Zdedededex",
+        "artist": "Seth Gueko",
+        "vote": "+534",
+        "titre": "Zdedededex",
+        "punchLine": "« T’es belle comme la chambre forte du Crédit Agricole. »"
+    },
+    {
+        "album": "La Légende De Johnny Niuuum",
+        "description": "Sadek > La Légende De Johnny Niuuum > Auto",
+        "artist": "Sadek",
+        "vote": "+566",
+        "titre": "Auto",
+        "punchLine": "« J’ai plus confiance en moi-même, poucave par mon ADN. »"
+    },
+    {
+        "album": "Busta Flex",
+        "description": "Busta Flex > Busta Flex > Pourquoi ?",
+        "artist": "Busta Flex",
+        "vote": "+1056",
+        "titre": "Pourquoi ?",
+        "punchLine": "« Les amis changent, l’argent les rend étranges, et si tu manges mieux qu’eux, ils se vengent. »"
+    },
+    {
+        "album": "Le 75 en Lui-Même",
+        "description": "Volts Face > Le 75 en Lui-Même > Peur De Personne",
+        "artist": "Volts Face",
+        "vote": "+1142",
+        "titre": "Peur De Personne",
+        "punchLine": "« Quand elle me demande du blé, je lui donne des céréales. »"
+    }
+]
